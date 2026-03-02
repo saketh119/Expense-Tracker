@@ -8,12 +8,12 @@ Backend
 cd expense-tracker
 pip install flask PyJWT   # only 2 dependencies needed
 python run.py
-# → http://localhost:5000
+
 Frontend
 cd frontend
 npm install
 npm run dev
-# → http://localhost:3000
+
 Demo Accounts
 Email	Password	Role
 alice@demo.com	password123	Employee
